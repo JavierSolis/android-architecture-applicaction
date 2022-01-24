@@ -11,9 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/library" />
-            <option value="$PROJECT_DIR$/library/architecture" />
-            <option value="$PROJECT_DIR$/library/architecture/application" />
+            <option value="$PROJECT_DIR$/architecture-application" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
