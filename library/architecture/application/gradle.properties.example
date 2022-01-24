@@ -1,0 +1,13 @@
+signing.keyId=<ULTIMOS 8 CARACTERES>
+signing.password=<CLAVE DE LLAVE, ES LA FRASE QUE SOLICITO AL MOMENTO DE CREARLA>
+signing.secretKeyRingFile=<RUTA AL ARCHIVO DE LA LLAVE EN FORMATO .GPG>
+
+#la credenciales de maven pueden setearse aca o se puede indicar por terminal como variabes de entorno dede la terminal
+
+#en caso se use aca
+#mavenCentralUsername=<usuario de maven/sonatype>
+#mavenCentralPassword=<contraseña>
+
+#en caso se use en terminal , es con este comando para MAC
+#export ORG_GRADLE_PROJECT_mavenCentralUsername=<usuario de maven/sonatype>
+#export ORG_GRADLE_PROJECT_mavenCentralPassword=<contraseña>
